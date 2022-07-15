@@ -1,7 +1,11 @@
-
+body{
+    background-color: #c1cdc1;
+}
+.banner{
+    width: 100% ;
+}
 a{
-    text-align: center;
-    font-size: 110%;
+    text-align: left;
 }
 
 b{
@@ -9,5 +13,20 @@ b{
 }
 
 c{
-    font-size: 150%;
+    font-size: 20px;
+}
+
+.beneficios{
+    display: inline-block;
+    margin-right: 35%;
+    vertical-align: top;
+    list-style: circle;
+}
+
+.beneficiosimg{
+    width: 35%;
+}
+
+p{
+    padding-left: 5%;
 }
